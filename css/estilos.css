@@ -24,10 +24,6 @@ background: green;
 
 li{
 float:left;
-margin: 50px;
+margin: 5px;
 }
 
-li{
-float: right;
-margin: 5px;	
-}
