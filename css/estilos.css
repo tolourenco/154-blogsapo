@@ -5,19 +5,29 @@ background: blue;
 }
 
 .logo{
-height: 100px;
-width: 100px;
+height: 90px;
+width: 145px;
 background: pink;
 }
 
 .menu{
 height: 100px;
-width:100px;
+width:650px;
 background: red;
 }
 
 .banner{
 height: 100px;
-width: 100px;
+width: 150px;
 background: green;	
+}
+
+li{
+float:left;
+margin: 50px;
+}
+
+li{
+float: right;
+margin: 5px;	
 }
